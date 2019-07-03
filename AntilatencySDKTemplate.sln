@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antilatency.Integration", "Antilatency.Integration.csproj", "{F506A6FB-DA04-18A7-53AF-1924ADB4054B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antilatency.Integration.Editor", "Antilatency.Integration.Editor.csproj", "{436B13D2-4C67-9BBE-9D45-20E2C10A1D6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F506A6FB-DA04-18A7-53AF-1924ADB4054B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F506A6FB-DA04-18A7-53AF-1924ADB4054B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F506A6FB-DA04-18A7-53AF-1924ADB4054B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F506A6FB-DA04-18A7-53AF-1924ADB4054B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{436B13D2-4C67-9BBE-9D45-20E2C10A1D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{436B13D2-4C67-9BBE-9D45-20E2C10A1D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{436B13D2-4C67-9BBE-9D45-20E2C10A1D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{436B13D2-4C67-9BBE-9D45-20E2C10A1D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Antilatency/Integration/Samples/AltSample.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
